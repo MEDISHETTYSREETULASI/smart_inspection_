@@ -1,3 +1,4 @@
+6JA3GH
 # Smart Inspection – Phase 1
 
 React + Vite prototype (login, role dashboards, navigation, mock data).
@@ -109,5 +110,6 @@ confidence, history/trend chart and risk alerts. Full formula and weights: `docs
 Futuristic "midnight command centre" design with light/dark themes, collapsible sidebar, mobile drawer, global search, notification centre, Admin command-centre
 dashboard, officer task dashboard, sortable/paginated Sites workspace, guided inspection progress, Settings page. See `docs/DESIGN_SYSTEM.md`.
 Run `npm run test:risk` for all automated checks.
-#   s m a r t _ i n s p e c t i o n  
+#   s m a r t _ i n s p e c t i o n 
+ 
  
